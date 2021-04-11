@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1552604456 source:c:\users\user\favorites\latihan pap 2\main.c
+	"header.h"
+
+1552558184 c:\users\user\favorites\latihan pap 2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552558399 source:c:\users\user\favorites\latihan pap 2\fungsi.c
+	"header.h"
+
+1552558400 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 2 rizki dwi martanto a11.2018.11468\pap 2 rizki dwi martanto a11.2018.11468\tugas 1\fungsi.c
+	"header.h"
+
+1552558186 i:\file udinus\udinus\tugas\semester 2\alpro\pap 2 rizki dwi martanto a11.2018.11468\pap 2 rizki dwi martanto a11.2018.11468\tugas 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553592852 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 2 rizki dwi martanto a11.2018.11468\pap 2 rizki dwi martanto a11.2018.11468\tugas 1\main.c
+	"header.h"
+

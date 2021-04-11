@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1520469864 source:e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 6\fungsi.c
+	"Header.h"
+
+1520469867 e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 6\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520475740 source:e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 6\main.c
+	"Header.h"
+
+1551998720 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 6\fungsi.c
+	"Header.h"
+
+1551998720 i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 6\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551998720 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 6\main.c
+	"Header.h"
+

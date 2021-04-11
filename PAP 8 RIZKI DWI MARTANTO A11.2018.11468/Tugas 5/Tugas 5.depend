@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1558494035 source:c:\users\user\favorites\tugas 5\main.c
+	"pustaka.h"
+
+1558494000 c:\users\user\favorites\tugas 5\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1558494008 source:c:\users\user\favorites\tugas 5\pustaka.c
+	"pustaka.h"
+
+1558494074 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 8 rizki dwi martanto a11.2018.11468\tugas 5\pustaka.c
+	"pustaka.h"
+
+1558494002 i:\file udinus\udinus\tugas\semester 2\alpro\pap 8 rizki dwi martanto a11.2018.11468\tugas 5\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+

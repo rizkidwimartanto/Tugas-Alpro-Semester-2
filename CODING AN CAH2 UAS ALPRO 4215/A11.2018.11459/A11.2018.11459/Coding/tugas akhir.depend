@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1561067392 source:d:\alpro\tugas akhir\fungsi.c
+	"header.h"
+
+1561065218 d:\alpro\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561068635 source:d:\alpro\tugas akhir\main.c
+	"header.h"
+
+1561105982 source:f:\tugas akhir\fungsi.c
+	"header.h"
+
+1561065220 f:\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561100102 source:f:\tugas akhir\main.c
+	"header.h"
+
+1561100102 source:i:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\main.c
+	"header.h"
+
+1561065220 i:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561634080 source:i:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\fungsi.c
+	"header.h"
+
+1561634080 source:f:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\fungsi.c
+	"header.h"
+
+1561065220 f:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561100102 source:f:\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\main.c
+	"header.h"
+
+1561634080 source:f:\udinus\tugas\semester 2\alpro\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\fungsi.c
+	"header.h"
+
+1561065220 f:\udinus\tugas\semester 2\alpro\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561100102 source:f:\udinus\tugas\semester 2\alpro\coding an cah2 uas alpro 4215\a11.2018.11459\a11.2018.11459\coding\main.c
+	"header.h"
+

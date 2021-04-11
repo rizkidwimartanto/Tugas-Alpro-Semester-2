@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1561273778 source:e:\dinus\tugasakhir\tugasakhiralpro\main.c
+	"header.h"
+
+1561273625 e:\dinus\tugasakhir\tugasakhiralpro\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561371470 source:e:\dinus\tugasakhir\tugasakhiralpro\fungsi.c
+	"header.h"
+
+1561457227 source:e:\dinus\tugasakhir\tugas akhir alpro\tugasakhiralpro\main.c
+	"header.h"
+
+1561273625 e:\dinus\tugasakhir\tugas akhir alpro\tugasakhiralpro\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

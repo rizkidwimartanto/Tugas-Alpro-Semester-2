@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558048495 source:c:\users\user\favorites\tugas 6\pustaka.c
+	"pustaka.h"
+
+1557999268 c:\users\user\favorites\tugas 6\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1558048437 source:c:\users\user\favorites\tugas 6\main.c
+	"pustaka.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1561216183 source:g:\may\sistem_kasir\main.c
+	"pustaka.h"
+
+1561216136 g:\may\sistem_kasir\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561215870 source:g:\may\sistem_kasir\pustaka.c
+	"pustaka.h"
+
+1561216183 source:c:\users\win 7\documents\a11.2018.11480\coding\main.c
+	"pustaka.h"
+
+1561216136 c:\users\win 7\documents\a11.2018.11480\coding\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561216461 source:c:\users\win 7\documents\a11.2018.11480\coding\pustaka.c
+	"pustaka.h"
+

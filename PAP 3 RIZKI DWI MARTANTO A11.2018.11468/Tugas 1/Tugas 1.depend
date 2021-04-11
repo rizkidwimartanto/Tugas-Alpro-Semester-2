@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1521643266 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 3\tugas 1\main.c
+	"pustaka.h"
+
+1521638999 e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 3\tugas 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1521639059 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 3\tugas 1\pustaka.c
+	"pustaka.h"
+
+1521639060 source:f:\alpro\tugas ( ibrahim sattar 10184 ) pap 3\tugas 1\pustaka.c
+	"pustaka.h"
+
+1521639000 f:\alpro\tugas ( ibrahim sattar 10184 ) pap 3\tugas 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1552616176 source:f:\alpro\pap 3\tugas 1\main.c
+	"pustaka.h"
+
+1521639000 f:\alpro\pap 3\tugas 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1521639060 source:f:\alpro\pap 3\tugas 1\pustaka.c
+	"pustaka.h"
+
+1553176434 source:i:\pap 3~\pap 3\tugas 1\main.c
+	"pustaka.h"
+
+1521639000 i:\pap 3~\pap 3\tugas 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1521639060 source:i:\pap 3~\pap 3\tugas 1\pustaka.c
+	"pustaka.h"
+
+1553176434 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 3 rizki dwi martanto a11.2018.11468\tugas 1\main.c
+	"pustaka.h"
+
+1521639000 i:\file udinus\udinus\tugas\semester 2\alpro\pap 3 rizki dwi martanto a11.2018.11468\tugas 1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1521639060 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 3 rizki dwi martanto a11.2018.11468\tugas 1\pustaka.c
+	"pustaka.h"
+

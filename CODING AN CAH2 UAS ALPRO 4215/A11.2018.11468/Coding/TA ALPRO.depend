@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1561366819 source:c:\users\user\favorites\ta alpro\fungsi.c
+	"header.h"
+
+1561366818 c:\users\user\favorites\ta alpro\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561366819 source:c:\users\user\favorites\ta alpro\main.c
+	"header.h"
+
+1561377552 source:e:\dendi\ta alpro\fungsi.c
+	"header.h"
+
+1561370024 e:\dendi\ta alpro\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561379500 source:e:\dendi\ta alpro\main.c
+	"header.h"
+
+1561377552 source:d:\habiib\ta alpro\ta alpro\ta alpro\fungsi.c
+	"header.h"
+
+1561370024 d:\habiib\ta alpro\ta alpro\ta alpro\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561387689 source:d:\habiib\ta alpro\ta alpro\ta alpro\main.c
+	"header.h"
+
+1561377552 source:i:\ta alpro-2\ta alpro\ta alpro\fungsi.c
+	"header.h"
+
+1561370024 i:\ta alpro-2\ta alpro\ta alpro\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561467682 source:i:\ta alpro-2\ta alpro\ta alpro\main.c
+	"header.h"
+

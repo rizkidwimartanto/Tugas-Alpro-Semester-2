@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1520429682 source:e:\#kuliah\alpro\pap 1\tugas 5\fungsi.c
+	"Header.h"
+
+1520429682 e:\#kuliah\alpro\pap 1\tugas 5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520429677 source:e:\#kuliah\alpro\pap 1\tugas 5\main.c
+	"Header.h"
+
+1520475639 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\main.c
+	"Header.h"
+
+1520469922 e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520475337 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\fungsi.c
+	"Header.h"
+
+1520475337 source:e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\fungsi.c
+	"Header.h"
+
+1520469922 e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520475639 source:e:\alpro\tugas ( ibrahim sattar 10184 ) pap 1\tugas 5\main.c
+	"Header.h"
+
+1551998718 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 5\fungsi.c
+	"Header.h"
+
+1554386666 i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 5\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1551998718 source:i:\file udinus\udinus\tugas\semester 2\alpro\pap 1 rizki dwi martanto a11.2018.11468\pap 1 rizki dwi martanto a11.2018.11468\tugas 5\main.c
+	"Header.h"
+

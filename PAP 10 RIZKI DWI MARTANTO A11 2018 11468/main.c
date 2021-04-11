@@ -1,0 +1,66 @@
+#include "pustaka.h"
+int main()
+{
+    printf("-------------------Tugas 1 Print Pecahan-------------------\n");
+    makePecahan(4, 9);
+    makePecahan(7, 2);
+    makePecahan(6, 20);
+    makePecahan(8, 10);
+    printf("-------------------Tugas 2 Print Pecahan-------------------\n");
+    printPecahan(makePecahan(4, 9));
+    printPecahan(makePecahan(7, 2));
+    printPecahan(makePecahan(6, 20));
+    printPecahan(makePecahan(8, 10));
+    printf("-------------------Tugas 3 Print Pembilang-------------------\n");
+    pembilang(makePecahan(4, 9));
+    pembilang(makePecahan(7, 2));
+    pembilang(makePecahan(6, 20));
+    pembilang(makePecahan(8, 10));
+    printf("-------------------Tugas 4 Print Penyebut-------------------\n");
+    penyebut(makePecahan(4, 9));
+    penyebut(makePecahan(7, 2));
+    penyebut(makePecahan(6, 20));
+    penyebut(makePecahan(8, 10));
+    printf("-------------------Tugas 5 Tambah Pecahan-------------------\n");
+    addPecahan(makePecahan(4, 9), makePecahan(1, 2));
+    addPecahan(makePecahan(5, 7), makePecahan(1, 4));
+    addPecahan(makePecahan(4, 9), makePecahan(3, 10));
+    addPecahan(makePecahan(3, 4), makePecahan(1, 5));
+    printf("-------------------Tugas 6 Kurang Pecahan-------------------\n");
+    subPecahan(makePecahan(4, 9), makePecahan(1, 5));
+    subPecahan(makePecahan(5, 7), makePecahan(1, 4));
+    subPecahan(makePecahan(4, 9), makePecahan(3, 10));
+    subPecahan(makePecahan(3, 4), makePecahan(1, 5));
+    printf("-------------------Tugas 7 Kali Pecahan-------------------\n");
+    mulPecahan(makePecahan(4, 9), makePecahan(1, 2));
+    mulPecahan(makePecahan(5, 7), makePecahan(1, 4));
+    mulPecahan(makePecahan(4, 9), makePecahan(3, 10));
+    mulPecahan(makePecahan(3, 4), makePecahan(1, 5));
+    printf("-------------------Tugas 8 Bagi Pecahan-------------------\n");
+    divPecahan(makePecahan(4, 9), makePecahan(1, 2));
+    divPecahan(makePecahan(5, 7), makePecahan(4, 2));
+    divPecahan(makePecahan(4, 9), makePecahan(8, 2));
+    divPecahan(makePecahan(1, 2), makePecahan(2, 1));
+    printf("-------------------Tugas 9 -------------------\n");
+    desimalPecahan(makePecahan(4, 9));
+    desimalPecahan(makePecahan(7, 2));
+    desimalPecahan(makePecahan(6, 20));
+    desimalPecahan(makePecahan(8, 10));
+    printf("-------------------Tugas 10 Pecahan1 2 kali pecahan2-------------------\n");
+    printf("is Equal --> %d\n",isEqual(makePecahan(4, 9), makePecahan(8, 18)));
+    printf("is Equal --> %d\n",isEqual(makePecahan(7,2), makePecahan(14,4)));
+    printf("is Equal --> %d\n",isEqual(makePecahan(4,9), makePecahan(6,20)));
+    printf("is Equal --> %d\n",isEqual(makePecahan(7,2), makePecahan(8,10)));
+    printf("-------------------Tugas 11 Pecahan paling besar-------------------\n");
+    printf("is Bigger --> %d\n",isBigger(makePecahan(14, 2), makePecahan(7, 2)));
+    printf("is Bigger --> %d\n",isBigger(makePecahan(7, 2), makePecahan(6, 20)));
+    printf("is Bigger --> %d\n",isBigger(makePecahan(6, 20), makePecahan(4, 9)));
+    printf("is Bigger --> %d\n",isBigger(makePecahan(8, 10), makePecahan(7, 2)));
+    printf("-------------------Tugas 12 Pecahan paling kecil-------------------\n");
+    printf("is Smaller --> %d\n",isSmaller(makePecahan(4, 9), makePecahan(7, 2)));
+    printf("is Smaller --> %d\n",isSmaller(makePecahan(7, 2), makePecahan(6, 20)));
+    printf("is Smaller --> %d\n",isSmaller(makePecahan(4, 9), makePecahan(6, 20)));
+    printf("is Smaller --> %d\n",isSmaller(makePecahan(8, 10), makePecahan(7, 2)));
+
+    return 0;
+}

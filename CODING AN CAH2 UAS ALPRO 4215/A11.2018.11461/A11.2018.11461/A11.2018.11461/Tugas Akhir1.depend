@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1561339269 source:c:\users\m alful falakh\documents\semester 2\tugas akhir1\main.c
+	"pustaka.h"
+
+1561339553 c:\users\m alful falakh\documents\semester 2\tugas akhir1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1561339553 source:c:\users\m alful falakh\documents\semester 2\tugas akhir1\pustaka.c
+	"pustaka.h"
+
+1561339560 source:f:\semester 2\tugas akhir1\main.c
+	"pustaka.h"
+
+1561414750 f:\semester 2\tugas akhir1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
